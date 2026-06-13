@@ -308,8 +308,8 @@ body {
 }
 
 .split-image2 {
-    width: 200%;
-     max-width: 900px;
+    width: 100%;
+     max-width: 100%;
      height: auto;
      object-fit: contain;
 }
